@@ -18,19 +18,12 @@ A simple two-player dice game built with Python and Tkinter.
 
 Tkinter is included with most standard Python installations, so no extra Python packages are required.
 
-## Run the Game
+Run in PowerShell
 
-Open PowerShell or Command Prompt in the project folder and run:
+If the file is saved on your OneDrive Desktop as dice_gui.py, run these exact commands:
 
-```bash
-python dice_game.py
-```
-
-On Windows, you can also use:
-
-```bash
-py dice_game.py
-```
+cd "C:\Users\User\OneDrive\Desktop"
+python .\dice_gui.py
 
 ## How to Play
 
@@ -44,7 +37,6 @@ py dice_game.py
 
 ## Project Structure
 
-```text
 two-player-dice-game/
 ├── dice_game.py
 ├── README.md
