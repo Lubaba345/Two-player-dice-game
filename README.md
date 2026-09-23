@@ -18,9 +18,7 @@ A simple two-player dice game built with Python and Tkinter.
 
 Tkinter is included with most standard Python installations, so no extra Python packages are required.
 
-Run in PowerShell
-
-If the file is saved on your OneDrive Desktop as dice_gui.py, run these exact commands:
+Run in PowerShell:
 python .\dice_gui.py
 
 ## How to Play
