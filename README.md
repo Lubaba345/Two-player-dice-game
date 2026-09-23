@@ -21,8 +21,6 @@ Tkinter is included with most standard Python installations, so no extra Python 
 Run in PowerShell
 
 If the file is saved on your OneDrive Desktop as dice_gui.py, run these exact commands:
-
-cd "C:\Users\User\OneDrive\Desktop"
 python .\dice_gui.py
 
 ## How to Play
